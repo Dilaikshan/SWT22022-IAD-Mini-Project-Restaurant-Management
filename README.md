@@ -59,7 +59,7 @@ To run this project locally, follow these steps:
 4. Configure your database settings in the `.env` file.
 5. Run `php artisan migrate` to migrate the database.
 6. Start the Laravel development server by running `php artisan serve`.
-7. Access the application in your web browser at `http://localhost:8000`.
+7. Access the application in your web browser at `http://127.0.0.1:8000`.
 
 ## Contributing
 
