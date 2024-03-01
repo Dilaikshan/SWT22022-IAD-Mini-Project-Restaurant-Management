@@ -46,7 +46,7 @@
                             </div>
                             <div class="col-md-4">
                                 <h5 class="section-title ff-secondary fw-normal text-start text-primary">Technical</h5>
-                                <p><i class="fa fa-envelope-open text-primary me-2"></i>techmad@x`gmail.com</p>
+                                <p><i class="fa fa-envelope-open text-primary me-2"></i>techmad@gmail.com</p>
                             </div>
                         </div>
                     </div>

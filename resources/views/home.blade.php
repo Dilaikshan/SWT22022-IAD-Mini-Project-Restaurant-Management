@@ -647,6 +647,3 @@
         <!-- Testimonial End -->
 
 @endsection
-        
-
-      
